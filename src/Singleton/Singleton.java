@@ -1,3 +1,5 @@
+package Singleton;
+
 public class Singleton {
     //Bill Pugh Method
 
